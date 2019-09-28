@@ -8,6 +8,11 @@ width: 960px;
 font-size: 18px;
 margin-left: 240px;
 }
+
+.wrapper { margin: 0, auto;
+    padding: 0px;
+
+}
 /* This is the style for the header and nav */
 Header, Nav {
     background: #ebebeb;
