@@ -1,3 +1,5 @@
+/* <!-- Jamie Morris Homework-1 HW-Wireframe --> */
+/* This is the style for the body */
 Body { 
 font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 color: #777;
@@ -5,71 +7,72 @@ background: #777;
 width: 960px;
 font-size: 18px;
 margin-left: 240px;
-
 }
-
-Header, Nav, Section, Aside, Footer {
+/* This is the style for the header and nav */
+Header, Nav {
     background: #ebebeb;
     text-align: center;
-    margin-bottom: 20px;
 }
-
+/* This is the style for the section, aside and footer */
+Section, Aside, Footer {
+    background: #ebebeb;
+    text-align: center;
+    margin-bottom: 15px;
+}
+/* This is the style for the header only */
 Header {
-    padding: 20px;
+    padding: 25px;
+    margin-bottom: 10px;
+}
+/* This is the style for the nav only */
+nav {
+    padding: 30px;
     margin-bottom: 20px;
 }
-
-nav {
-    padding: 20px;
-}
-
+/* This is the style for the h1 and p */
 h1, p {
     color: #777;
     background: #ebebeb;
     padding: 20px;
     margin: 20px;
-
 }
-
+/* This is the style for the h2 */
 h2 { font-size: 18px;
-
 }
-
+/* This is the style for h1, h2 */
+h1, h2 {
+    font-weight: normal;
+}
+/* This is the style for section, aside */
 section, aside {
-    height: 320px;
+    height: 280px;
 }
-
+/* This is the style for section only */
 section {
     width: 495px;
     float: left;
     padding: 20px;
-    
-    
     }
-
+/* This is the style for article */
 Article {
     color: #ebebeb;
     background: #777;
     overflow: auto;
-    margin-top: 60px;
-    
+    margin-top: 30px; 
 }
-
+/* This is the style for p */
 p {
     margin-bottom: 20px;
     position: relative;
-    
-
 }
-
+/* This is the style for aside */
 aside {
     float: right;
     width: 400px;
     margin-left: 20px;
 padding-bottom: 38px;
-
 }
-
+/* This is the style for footer */
 Footer {
     clear: both;
     overflow: auto;
