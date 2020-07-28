@@ -9,6 +9,8 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 * [GitHub Repository](https://github.com/jamierachael/HW-Wireframe)
 * [Deployed GitHub IO](https://jamierachael.github.io/HW-Wireframe/)
 
+![](Screenshots/Wireframe.PNG)
+
 ### Prerequisites
 
 To install this application, you will need a text editor. I recommend Visual Studio Code. 
@@ -21,6 +23,6 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 
 This project provides a basic template for a wireframe webpage layout using HTML and CSS.
 
-![](screenshots/Wireframe.PNG)
+
 
 
