@@ -23,13 +23,14 @@ Section, Aside, Footer {
 }
 /* This is the style for the header only */
 Header {
+    margin-top: 15px;
     padding: 25px;
     margin-bottom: 10px;
 }
 /* This is the style for the nav only */
 nav {
     padding: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 /* This is the style for the h1 and p */
 h1, p {
