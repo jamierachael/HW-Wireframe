@@ -23,7 +23,7 @@ Section, Aside, Footer {
 }
 /* This is the style for the header only */
 Header {
-    margin-top: 15px;
+    margin-top: 25px;
     padding: 25px;
     margin-bottom: 10px;
 }
